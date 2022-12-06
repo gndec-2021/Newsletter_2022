@@ -123,7 +123,8 @@
 |         |                                                                                            | 3. Harpreet Singh (2004694)          |                                                                                           |                |      |
 |         |                                                                                            |  4. Dr. Daljit Singh                 |
 
-## Students of CSE participated and bagged various positions in IKGPTU Zonal Youth Festival
+## Students of CSE participated and bagged various positions in IKGPTU Zonal Youth Festival  
+
 | S.No. | Name             | URN     | Name of Event                                                                           | Level |
 |-------|------------------|---------|-----------------------------------------------------------------------------------------|-------|
 | 1     | Avaluday Singh   | 2004554 | Bhangra  (1st Position), IKG Punjab Technical University Zonal Youth Festival           | Zonal |
