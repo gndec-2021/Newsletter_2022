@@ -16,7 +16,7 @@
 - Ramneet Kaur Sekhon (2004647)
 
 ## Student Achievements
-<div align = "justify"><div>
+
 
 - Harveer Singh URN: 1805183, Student of 2018-2022 Batch got placed at a highest package of 51 Lakh per Annum in Microsoft.
 - Two students of CSE Department (2017-2021 Batch) URN 1706410, Ayushi Sharma and URN 1706461 Kunika Malhotra got placed at a highest package of 18.17 Lakh per Annum in Walmart Global Technology Services India in 2021.
@@ -24,6 +24,7 @@
 - Punar Partap Singh Sidhu URN: 1905032 has been selected in Junior National Shooting Squad.
 
 ### Students of CSE Department has successfully cleared various NPTEL MOOC’s courses
+
 | Sr.No. | Name                    | U.R. No. | Course Name                                   | Year |
 |:--------|:-------------------------|:----------|:-----------------------------------------------|:------|
 | 1      | Anmol Mittal            | 2004540  | Ethical Hacking                               | 2022 |
@@ -110,6 +111,7 @@
 | 82     | Priyanka Jhamb          | 1905379  | Developing Soft Skills and Personality        | 2019 |
 
 ### Students/ Faculty Conference Publications
+
 | Sr. No. | Title of Paper                                                                             | Name of Authors                      | Name of Journal/ Conference                                                               | Level          | Year |
 |---------|--------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|----------------|------|
 | 1       | Face Sketch constructor and Identity Attestation                                           | 1. Jasmine Kaur Gill (1905008)       | 10th International Conference on Advancements in Engineering and Technology (ICAET-2022)  | International  | 2022 |
@@ -147,7 +149,7 @@
 
 ## Faculty Achievements  
 
-<div align = "justify"><div>
+
 
 -  **Dr. Daljeet Singh** became Nominee Member of Computer Society of India, Till 31st Oct, 2023.
 - **Dr. Kiran Jyoti** joined as an Associate Professor in the department of Computer Science & Engineering.
@@ -193,7 +195,8 @@
 | 16       | One Day webinar on Womes's health and wellness| Er. Priti Aggarwal | One Day | 10 March, 2021   | IEEE |
 
 
-## Main recruiters for CSE Students
+## Main recruiters for CSE Students  
+  
 | Sr. No. | Name of Company                           |
 |---------|-------------------------------------------|
 | 1       | Microsoft                                 |
@@ -210,7 +213,8 @@
 | 12      | Yatra Online Freight Services Pvt. Ltd.   |
 | 13      | Om Careers                                |
 
-## Expert Talks held:
+## Expert Talks held: 
+  
 | Sr. No. | Name of Expert with Designation and Company                                                                                                                | Audience                                           | Topic of Expert Talk  | Date(s)                | Timings(s)                                 |
 |:--------|:------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------|:---------|:-----------------------|:-----------------------------------------------|
 | 1       | Mr. Bharat Gulati, Delivery Head, ASG Technologies, Delhi           | B.Tech. (CSE-5th Semester) | Statistics for Data Science |  15 December, 2021   | 5:00 PM|
